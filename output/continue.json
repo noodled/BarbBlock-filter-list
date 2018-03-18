@@ -1,0 +1,8 @@
+{
+    "/home/travis/build/Ultimate-Hosts-Blacklist/BarbBlock-filter-list/domains.list": {
+        "number_of_down": 0,
+        "number_of_invalid": 3,
+        "number_of_tested": 206,
+        "number_of_up": 203
+    }
+}
