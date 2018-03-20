@@ -1,9 +1,11 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/BarbBlock-filter-list/domains.list": {
-        "1521396601": [
-            "==============",
+        "1521569419": [
             "DQ95D35.COM",
             "GitHub"
+        ],
+        "to_test": [
+            "=============="
         ]
     }
 }
