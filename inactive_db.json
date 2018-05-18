@@ -10,10 +10,9 @@
             "sinceresofa.com",
             "smilingsock.com",
             "structuresofa.com",
-            "tidytrail.com"
-        ],
-        "to_test": [
+            "tidytrail.com",
             "=============="
-        ]
+        ],
+        "to_test": []
     }
 }
