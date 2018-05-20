@@ -1,18 +1,18 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/BarbBlock-filter-list/domains.list": {
-        "1526583933": [
+        "1526841586": [
             "chinchickens.com",
             "DQ95D35.COM",
             "GitHub",
             "jewelcheese.com",
             "ovalpigs.com",
-            "peacepowder.com",
             "sinceresofa.com",
             "smilingsock.com",
             "structuresofa.com",
-            "tidytrail.com",
-            "=============="
+            "tidytrail.com"
         ],
-        "to_test": []
+        "to_test": [
+            "=============="
+        ]
     }
 }
